@@ -3,13 +3,6 @@ How ChatGPT can be Used for Introducing AI-Powered Characters and Storylines
 
 In this chapter, we will explore how ChatGPT can be used to introduce AI-powered characters and storylines into games. We will discuss the basic workings of ChatGPT, its strengths and limitations, and provide examples of how it has been used in gaming.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is a powerful language model developed by OpenAI. It uses deep learning algorithms to generate human-like responses to text input. The model was trained on a massive dataset of internet text, allowing it to learn the nuances and patterns of natural language.
-
-One of the unique features of ChatGPT is its ability to generate coherent and contextually relevant responses to a wide range of prompts. This makes it an ideal tool for creating AI-powered characters and storylines in games.
-
 Strengths of ChatGPT
 --------------------
 

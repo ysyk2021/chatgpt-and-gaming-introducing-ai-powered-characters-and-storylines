@@ -3,11 +3,6 @@ Importance of Gaming Industry for Entertainment
 
 In this chapter, we will explore the basics of the gaming industry and the importance of the gaming industry for entertainment.
 
-What is the Gaming Industry?
-----------------------------
-
-The gaming industry refers to the businesses involved in the development, marketing, and distribution of video games. This includes game developers, publishers, hardware manufacturers, and retailers.
-
 Importance of Gaming Industry for Entertainment
 -----------------------------------------------
 

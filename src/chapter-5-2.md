@@ -3,11 +3,6 @@ Features and Capabilities of ChatGPT
 
 In this chapter, we will discuss the features and capabilities of ChatGPT, a state-of-the-art language model that can generate natural-sounding text.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is an AI-powered language model developed by OpenAI. It is based on the transformer architecture and uses unsupervised learning to generate natural-sounding text. With over 1.6 billion parameters, it has been shown to perform well on a wide range of language tasks, including language translation, summarization, and question answering.
-
 Features of ChatGPT
 -------------------
 
