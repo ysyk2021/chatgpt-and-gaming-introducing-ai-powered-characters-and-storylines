@@ -1,5 +1,3 @@
-How ChatGPT can be Used for Introducing AI-Powered Characters and Storylines
-==============================================================================================================
 
 In this chapter, we will explore how ChatGPT can be used to introduce AI-powered characters and storylines into games. We will discuss the basic workings of ChatGPT, its strengths and limitations, and provide examples of how it has been used in gaming.
 

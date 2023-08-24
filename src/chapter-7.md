@@ -1,5 +1,3 @@
-Chapter 6: Future of Gaming Industry with ChatGPT
-=================================================
 
 In this chapter, we will explore the potential advancements, emerging trends, and challenges in the gaming industry with ChatGPT and how they may shape the future of gaming.
 

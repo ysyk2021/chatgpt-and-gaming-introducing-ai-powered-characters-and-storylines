@@ -1,5 +1,3 @@
-Features and Capabilities of ChatGPT
-======================================================================
 
 In this chapter, we will discuss the features and capabilities of ChatGPT, a state-of-the-art language model that can generate natural-sounding text.
 

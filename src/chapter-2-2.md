@@ -1,5 +1,3 @@
-Different Types of Games
-==============================================================
 
 In this chapter, we will explore the different types of games that fall under the umbrella of the gaming industry.
 

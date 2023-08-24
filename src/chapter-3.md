@@ -1,5 +1,3 @@
-Chapter 2: Challenges in Gaming Industry
-========================================
 
 In this chapter, we will explore the challenges faced by the gaming industry and their impact on the gaming experience. We will also examine the factors affecting the gaming industry and the common challenges faced by both players and game developers.
 

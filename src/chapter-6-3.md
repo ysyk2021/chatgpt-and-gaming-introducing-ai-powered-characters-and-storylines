@@ -1,5 +1,3 @@
-Case Studies of Game Developers that have Successfully Implemented ChatGPT for AI-Powered Characters and Storylines
-=======================================================================================================================================================================
 
 In this chapter, we will explore case studies of game developers who have successfully implemented ChatGPT for AI-powered characters and storylines in their games.
 

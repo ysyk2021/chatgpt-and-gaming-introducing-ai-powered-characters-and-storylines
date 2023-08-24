@@ -1,5 +1,3 @@
-Best Practices for Using ChatGPT in Game Development
-========================================================================================================
 
 In this chapter, we will discuss best practices for using ChatGPT in game development to create AI-powered characters and storylines that enhance the gaming experience.
 

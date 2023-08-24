@@ -1,5 +1,3 @@
-Chapter 4: Understanding ChatGPT
-================================
 
 In this chapter, we will explore ChatGPT, the technology at the heart of AI-powered characters and storylines in the gaming industry.
 

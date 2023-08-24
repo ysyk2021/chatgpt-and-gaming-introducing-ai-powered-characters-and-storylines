@@ -1,5 +1,3 @@
-Importance of Gaming Industry for Entertainment
-=====================================================================================
 
 In this chapter, we will explore the basics of the gaming industry and the importance of the gaming industry for entertainment.
 

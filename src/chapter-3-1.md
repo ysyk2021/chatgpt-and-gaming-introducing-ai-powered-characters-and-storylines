@@ -1,5 +1,3 @@
-Factors Affecting Gaming Industry
-===========================================================================
 
 In this chapter, we will explore the factors that are affecting the gaming industry and contributing to the challenges faced by game developers.
 

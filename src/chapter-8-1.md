@@ -1,5 +1,3 @@
-Summary of Key Points
-=================================
 
 In this book, we have explored the intersection of ChatGPT and gaming, with a focus on AI-powered characters and storylines. Here are the key points we covered:
 

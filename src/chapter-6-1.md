@@ -1,5 +1,3 @@
-Steps to Implement ChatGPT for Creating AI-Powered Characters and Storylines
-================================================================================================================================
 
 In this chapter, we will discuss the steps to implement ChatGPT for creating AI-powered characters and storylines in game development.
 

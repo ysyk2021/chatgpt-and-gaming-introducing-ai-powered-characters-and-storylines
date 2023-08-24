@@ -1,5 +1,3 @@
-The Role of ChatGPT in Introducing AI-Powered Characters and Storylines
-=====================================================================================
 
 In this book, we will explore the role of ChatGPT in introducing AI-powered characters and storylines to the gaming industry. With the advent of artificial intelligence (AI), game developers now have the ability to create more immersive and engaging gaming experiences for players.
 

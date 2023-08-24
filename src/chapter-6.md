@@ -1,5 +1,3 @@
-Chapter 5: Implementing ChatGPT in Gaming Industry
-==================================================
 
 In this chapter, we will explore the steps to implement ChatGPT for creating AI-powered characters and storylines, best practices for using ChatGPT in game development, and case studies of game developers that have successfully implemented ChatGPT for AI-powered characters and storylines.
 

@@ -1,5 +1,3 @@
-Overview of the Book
-==================================
 
 In this book, we will explore the intersection of artificial intelligence (AI) and gaming, with a specific focus on how ChatGPT can be used to introduce AI-powered characters and storylines into games.
 

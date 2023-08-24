@@ -1,5 +1,3 @@
-Potential Advancements in Gaming Industry with ChatGPT
-=========================================================================================================
 
 In this chapter, we will explore the potential advancements in the gaming industry with ChatGPT and how AI-powered characters and storylines can shape the future of gaming.
 
