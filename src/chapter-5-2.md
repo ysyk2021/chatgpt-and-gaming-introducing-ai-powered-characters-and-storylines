@@ -1,5 +1,4 @@
-Chapter: Features and Capabilities of ChatGPT
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the features and capabilities of ChatGPT, an advanced AI language model that is revolutionizing the gaming industry. Developed using state-of-the-art techniques, ChatGPT empowers game developers to create AI-powered characters and engaging storylines in their games.
 

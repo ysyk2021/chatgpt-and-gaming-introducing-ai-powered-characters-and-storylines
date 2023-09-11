@@ -1,5 +1,4 @@
-Chapter: Best Practices for Using ChatGPT in Game Development
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss best practices for integrating ChatGPT, an AI-powered language model, into game development. ChatGPT enables the creation of dynamic and engaging characters, immersive storylines, and interactive player experiences. By following these best practices, game developers can leverage the full potential of ChatGPT while ensuring a seamless integration within their games.
 

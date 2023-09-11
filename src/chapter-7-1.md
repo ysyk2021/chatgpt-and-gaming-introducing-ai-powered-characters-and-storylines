@@ -1,5 +1,4 @@
-Chapter: Potential Advancements in the Gaming Industry with ChatGPT
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the potential advancements that ChatGPT, an advanced AI language model, can bring to the gaming industry. With its natural language processing capabilities, ChatGPT has the potential to revolutionize various aspects of game development and player experiences.
 

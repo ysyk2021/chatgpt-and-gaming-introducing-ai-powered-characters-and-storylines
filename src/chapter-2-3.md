@@ -1,5 +1,4 @@
-Chapter: Importance of the Gaming Industry for Entertainment
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of the gaming industry for entertainment. We will discuss how video games have emerged as a significant form of entertainment and examine the reasons behind their widespread popularity.
 

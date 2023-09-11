@@ -1,5 +1,4 @@
-Chapter: Introduction to AI and Chatbots
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an introduction to artificial intelligence (AI) and chatbots, laying the foundation for understanding their role in gaming and how they can be leveraged to create immersive experiences.
 

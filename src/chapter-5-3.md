@@ -1,5 +1,4 @@
-Chapter: How ChatGPT can be Used for Introducing AI-Powered Characters and Storylines
-=====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how ChatGPT, an advanced AI language model, can be utilized to introduce AI-powered characters and storylines in video games. We will discuss the potential applications, benefits, and considerations of integrating ChatGPT into gaming experiences.
 

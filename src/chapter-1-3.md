@@ -1,5 +1,4 @@
-Chapter: The Role of ChatGPT in Introducing AI-Powered Characters and Storylines
-================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, as an advanced language model powered by artificial intelligence, plays a significant role in the integration of AI-powered characters and storylines into gaming experiences. In this chapter, we explore how ChatGPT contributes to shaping the gaming landscape.
 

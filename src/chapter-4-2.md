@@ -1,5 +1,4 @@
-Chapter: How AI and Chatbots Can Improve Gaming Experience
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the ways in which AI and chatbots can enhance the gaming experience for players. From providing personalized interactions to improving gameplay mechanics, the integration of AI technologies opens up exciting possibilities for creating more immersive and enjoyable games.
 

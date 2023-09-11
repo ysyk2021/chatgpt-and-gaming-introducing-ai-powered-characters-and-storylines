@@ -1,5 +1,4 @@
-Chapter: Common Challenges Faced by Players and Game Developers
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Integrating AI-powered characters and storylines in gaming introduces a set of common challenges for both players and game developers. In this chapter, we explore these challenges and their impact on the gaming ecosystem.
 

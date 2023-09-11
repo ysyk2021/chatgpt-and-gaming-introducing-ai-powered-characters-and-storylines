@@ -1,5 +1,4 @@
-Chapter: Definition of the Gaming Industry
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide a comprehensive definition of the gaming industry, highlighting its scope, components, and significance in today's digital landscape.
 

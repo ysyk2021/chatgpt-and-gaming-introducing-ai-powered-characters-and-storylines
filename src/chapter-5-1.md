@@ -1,5 +1,4 @@
-Chapter: What is ChatGPT?
-=========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT is an advanced natural language processing model developed by OpenAI. It represents a significant milestone in the field of AI and has found extensive application in the gaming industry, particularly in the creation of AI-powered characters and storylines.
 

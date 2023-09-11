@@ -1,5 +1,4 @@
-Chapter: Case Studies of Game Developers Implementing ChatGPT for AI-Powered Characters and Storylines
-======================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore case studies of game developers who have successfully implemented ChatGPT to create AI-powered characters and compelling storylines within their games. These real-world examples demonstrate the potential and impact of integrating advanced chatbot technology into gaming experiences.
 

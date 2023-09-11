@@ -1,5 +1,4 @@
-Chapter: Impact of These Challenges on Gaming Experience
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The challenges associated with integrating AI-powered characters and storylines in gaming have a significant impact on the overall gaming experience. In this chapter, we explore how these challenges can affect various aspects of gameplay and player engagement.
 
